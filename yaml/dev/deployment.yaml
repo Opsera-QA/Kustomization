@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: testrgstr.azurecr.io/qa-argo-azure:135
+          image: testrgstr.azurecr.io/qa-argo-azure:136
           ports:
             - containerPort: 8072
           env:
